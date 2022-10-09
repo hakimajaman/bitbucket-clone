@@ -1,0 +1,35 @@
+nav{
+    background-color: white;
+    display: flex;
+    
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+
+.left{
+    margin: 10px;
+    width: 50%;
+    padding: 0px 30px;
+    color: blue;
+}
+
+.right{
+    padding: 10px 20px;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    color: blue;
+}
+
+button{
+    border-color: blue;
+    background-color: white;
+    color: blue;
+
+}
+
